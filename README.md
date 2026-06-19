@@ -8,11 +8,11 @@ After a long period of methodological contemplation — also known as postponing
 
 Here I am gradually documenting selected projects, scripts and methods developed across research, environmental monitoring, teaching and applied data analysis.
 
+## About my work
+
 I work with ecological and environmental data, using R, open tools and reproducible methods to organize, analyze and communicate information for research, technical reports, conservation and environmental management.
 
 My work moves between data analysis, ecology, spatial thinking, data visualization, teaching and collaborative research. I care about clean scripts, well-documented methods and analyses that make sense beyond the code.
-
-This profile documents projects, scripts and methods developed along my academic and professional path — from ecosystem services and environmental monitoring to R-based workflows for data cleaning, visualization and reporting.
 
 ## What I work with
 
@@ -46,4 +46,3 @@ This profile documents projects, scripts and methods developed along my academic
 
 * ORCID: https://orcid.org/0000-0002-2987-5340
 * Lattes: http://lattes.cnpq.br/0919178340628891
-
